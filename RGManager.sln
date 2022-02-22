@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RGManager.Wpf", "RGManager.Wpf\RGManager.Wpf.csproj", "{3A0EDD0A-68D9-4F37-8D53-FAA9D1187AEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RGManager.Entites", "RGManager.Entites\RGManager.Entites.csproj", "{45A0AEFC-FED4-4BCB-9BAF-5391D1C19FFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A0EDD0A-68D9-4F37-8D53-FAA9D1187AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A0EDD0A-68D9-4F37-8D53-FAA9D1187AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A0EDD0A-68D9-4F37-8D53-FAA9D1187AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A0EDD0A-68D9-4F37-8D53-FAA9D1187AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45A0AEFC-FED4-4BCB-9BAF-5391D1C19FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A0AEFC-FED4-4BCB-9BAF-5391D1C19FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A0AEFC-FED4-4BCB-9BAF-5391D1C19FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A0AEFC-FED4-4BCB-9BAF-5391D1C19FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B067B9C4-2246-4365-956E-361FB48FA071}
+	EndGlobalSection
+EndGlobal
